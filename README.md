@@ -55,7 +55,7 @@ Simply clone the repo cd into the right directory and run the code. Step-by-Step
 
 1. Clone the repository using 
    ```sh
-   git clone https://github.com/sudharsan-007/jetrat.git
+   git clone https://github.com/sudharsan-007/mnist-clustering.git
    ```
 
 2. cd into the directory RL-DQN-Snake-Game
