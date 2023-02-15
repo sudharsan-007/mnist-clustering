@@ -60,7 +60,7 @@ Simply clone the repo cd into the right directory and run the code. Step-by-Step
 
 2. cd into the directory RL-DQN-Snake-Game
    ```sh
-   cd jetrat
+   cd mnist-clustering
    ```
 
 3. Create a Environment using
