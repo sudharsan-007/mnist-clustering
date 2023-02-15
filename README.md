@@ -58,7 +58,7 @@ Simply clone the repo cd into the right directory and run the code. Step-by-Step
    git clone https://github.com/sudharsan-007/mnist-clustering.git
    ```
 
-2. cd into the directory RL-DQN-Snake-Game
+2. cd into the directory
    ```sh
    cd mnist-clustering
    ```
